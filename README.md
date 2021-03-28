@@ -1,48 +1,29 @@
 <h1 align="left">Hi 👋, I'm Nicolas</h1>
-<h3 align="left">A passionate developer from Chile<br><br></h3>
+<h3 align="left">A passionate developer from Chile<br><br>
 
 
 
-<table style="background-color:rgba(0, 0, 0, 0);">
-<tbody>
-<tr>
-<td>
-
-<img width="60%" src="https://images.squarespace-cdn.com/content/v1/59ce619051a58496e0a0a3fe/1562900586254-JYMGE6W5FB59CWFXQZMP/ke17ZwdGBToddI8pDm48kN39RqJWGK8_yd06nMkDVQtZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH1JnGfgCuNK1zHVapKjauTUnVy-HMSn5OepKQhEgGSCD-3CTWZQ124CTRPXn-dnvM/vagabond.gif">
-
-<b><h3 align="lelft"> Socials:</h3><b/>
-<p align="left">
-<a href="https://instagram.com/sjerkz"><img alt="Instagram" title="Instagram" height="35" width="35" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"></a>
-<a href="https://linkedin.com/in/cortezmanzano"><img alt="LinkedIn" title="LinkedIn" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
-<a href="https://twitter.com/bixtsicor"><img alt="Twitter" title="Twitter" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>  
-<a href="https://discord.gg/VBHXeAnG"><img alt="Discord - Sekiro#5120" title="Discord - Sekiro#5120" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>  <a href="https://steamcommunity.com/id/fas1l"><img alt="Steam" title="Steam" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>  <a href="https://open.spotify.com/user/bixtsicor"><img alt="Spotify" title="Spotify" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
-</p>
+<img width="30%" src="https://images.squarespace-cdn.com/content/v1/59ce619051a58496e0a0a3fe/1562900586254-JYMGE6W5FB59CWFXQZMP/ke17ZwdGBToddI8pDm48kN39RqJWGK8_yd06nMkDVQtZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH1JnGfgCuNK1zHVapKjauTUnVy-HMSn5OepKQhEgGSCD-3CTWZQ124CTRPXn-dnvM/vagabond.gif"><br><br></h3>
 
 
 
-</td>
-<td>
 <p align="left"> 
 🏠 I’m currently living in Quillota, Chile ᴄʟ . <br/>
 👨‍💻 I’m currently Studying Software Engineering .<br/>
 🔭 I’m currently Unemployed 😥.<br/>
 😄 Pronouns: He/Him <br/>
 🚀 How to reach me: nascorman@gmail.com
-
 </p>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicortezm&show_icons=true&locale=en&layout=compact" alt="nicortezm" /></p>       
-
-</td>
-</tr>
-</tbody>
-</table>
 
 
+<b><h3 align="lelft"> Socials:</h3><b/>
+<p align="left">
+<a href="https://instagram.com/sjerkz"><img alt="Instagram" title="Instagram" height="35" width="35" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"></a>
+<a href="https://linkedin.com/in/cortezmanzano"><img alt="LinkedIn" title="LinkedIn" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+<a href="https://twitter.com/bixtsicor"><img alt="Twitter" title="Twitter" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>  
 
-
-
-
-
+<a href="https://discord.gg/VBHXeAnG"><img alt="Discord - Sekiro#5120" title="Discord - Sekiro#5120" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>  <a href="https://steamcommunity.com/id/fas1l"><img alt="Steam" title="Steam" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>  <a href="https://open.spotify.com/user/bixtsicor"><img alt="Spotify" title="Spotify" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
+</p>
 
 
 <table align="left">
@@ -109,4 +90,4 @@
 </table>
 
 <br>
- 
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicortezm&show_icons=true&locale=en&layout=compact" alt="nicortezm" /></p>        
