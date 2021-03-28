@@ -3,7 +3,7 @@
 
 
 
-<table>
+<table style="background-color:rgba(0, 0, 0, 0);">
 <tbody>
 <tr>
 <td>
