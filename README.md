@@ -12,7 +12,8 @@
 👨‍💻 I’m currently Studying Software Engineering .<br/>
 🔭 I’m currently Unemployed 😥.<br/>
 🚀 How to reach me: nascorman@gmail.com
-</p>
+</p><br>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicortezm&show_icons=true&locale=en&layout=compact" alt="nicortezm" /></p> 
 
 
 <b><h3 align="lelft"> Socials:</h3><b/>
@@ -86,7 +87,4 @@
 </tr>
 </tbody>
 
-</table>
-
-<br>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicortezm&show_icons=true&locale=en&layout=compact" alt="nicortezm" /></p>        
+</table>       
