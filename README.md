@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Nicolas</h1>
-<h3 align="left">A passionate developer from Chile<br><br>
+<br><br>
 
 
 
@@ -11,7 +11,6 @@
 🏠 I’m currently living in Quillota, Chile ᴄʟ . <br/>
 👨‍💻 I’m currently Studying Software Engineering .<br/>
 🔭 I’m currently Unemployed 😥.<br/>
-😄 Pronouns: He/Him <br/>
 🚀 How to reach me: nascorman@gmail.com
 </p>
 
