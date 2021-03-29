@@ -13,7 +13,7 @@
 🔭 I’m currently Unemployed 😥.<br/>
 🚀 How to reach me: nascorman@gmail.com
 </p><br>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicortezm&show_icons=true&locale=en&layout=compact" alt="nicortezm" /></p> 
+
 
 
 <b><h3 align="lelft"> Socials:</h3><b/>
@@ -24,7 +24,7 @@
 
 <a href="https://discord.gg/VBHXeAnG"><img alt="Discord - Sekiro#5120" title="Discord - Sekiro#5120" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>  <a href="https://steamcommunity.com/id/fas1l"><img alt="Steam" title="Steam" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg"></a>  <a href="https://open.spotify.com/user/bixtsicor"><img alt="Spotify" title="Spotify" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
 </p>
-
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicortezm&show_icons=true&locale=en&layout=compact" alt="nicortezm" /></p> 
 
 <table align="left">
 <tbody>
