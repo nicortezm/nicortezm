@@ -8,8 +8,8 @@
 
 
 <p align="left"> 
-🏠 I’m currently living in Quillota, Chile ᴄʟ . <br/>
-👨‍💻 I’m currently Studying Software Engineering .<br/>
+🏠 La Cruz, Chile ᴄʟ . <br/>
+👨‍💻 I’m Studying Software Engineering .<br/>
 🔭 I’m currently Unemployed 😥.<br/>
 🚀 How to reach me: nascorman@gmail.com
 </p><br>
