@@ -12,14 +12,12 @@
 
 
 
-<b><h3 align="lelft"> Socials:</h3><b/>
+## Socials
 <p align="left">
 <a href="https://instagram.com/sjerkz"><img alt="Instagram" title="Instagram" height="35" width="35" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"></a>
 <a href="https://linkedin.com/in/cortezmanzano"><img alt="LinkedIn" title="LinkedIn" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 <a href="https://twitter.com/bixtsicor"><img alt="Twitter" title="Twitter" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a><a href="https://open.spotify.com/user/bixtsicor"><img alt="Spotify" title="Spotify" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
 </p>
-
-
 
 ## Tech Stack
 
