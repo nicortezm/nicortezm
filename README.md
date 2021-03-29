@@ -3,10 +3,6 @@
 
 
 
-<img width="30%" src="https://images.squarespace-cdn.com/content/v1/59ce619051a58496e0a0a3fe/1562900586254-JYMGE6W5FB59CWFXQZMP/ke17ZwdGBToddI8pDm48kN39RqJWGK8_yd06nMkDVQtZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH1JnGfgCuNK1zHVapKjauTUnVy-HMSn5OepKQhEgGSCD-3CTWZQ124CTRPXn-dnvM/vagabond.gif"><br><br></h3>
-
-
-
 <p align="left"> 
 🏠 La Cruz, Chile ᴄʟ . <br/>
 👨‍💻 I’m Studying Software Engineering .<br/>
