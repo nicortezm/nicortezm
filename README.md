@@ -71,8 +71,7 @@
 <b><h3 align="left">Frameworks:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a><a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a></td>
 <td>
-
-<br><br><p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicortezm&show_icons=true&locale=en&layout=compact" alt="nicortezm" /></p
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicortezm&show_icons=true&locale=en&layout=compact" alt="nicortezm" />
 </p>
 </td>
 </tr>
