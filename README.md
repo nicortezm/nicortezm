@@ -7,7 +7,7 @@
 🏠 La Cruz, Chile ᴄʟ . <br/>
 👨‍💻 I’m Studying Software Engineering .<br/>
 🚀 How to reach me: nascorman@gmail.com <br/>
-🔭 I’m currently Learning <a href="https://reactjs.org/"><img alt="ReactJs" title="ReactJs" height="25" width="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/react.png"></a> <a href="https://angular.io/"><img alt="Angular" title="Angular" height="25" width="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/angular.png"></a> <a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" height="25" width="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/typescript.png"></a> <a href="https://laravel.com/"><img alt="Laravel" title="Laravel" height="25" width="25" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/laravel.png"></a>.<br/>
+🔭 I’m currently Learning <a href="https://reactjs.org/"><img alt="ReactJs" title="ReactJs" height="20" width="20" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/react.png"></a> <a href="https://angular.io/"><img alt="Angular" title="Angular" height="20" width="20" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/angular.png"></a> <a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" height="20" width="20" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/typescript.png"></a> <a href="https://laravel.com/"><img alt="Laravel" title="Laravel" height="20" width="20" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/laravel.png"></a><br/>
 </p><br>
 
 
