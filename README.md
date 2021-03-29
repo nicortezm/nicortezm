@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/cortezmanzano"><img alt="LinkedIn" title="LinkedIn" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 <a href="https://twitter.com/bixtsicor"><img alt="Twitter" title="Twitter" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a><a href="https://open.spotify.com/user/bixtsicor"><img alt="Spotify" title="Spotify" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
 </p>
-<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicortezm&show_icons=true&locale=en&layout=compact" alt="nicortezm" /></p> 
+
 
 <table align="left">
 <tbody>
@@ -81,6 +81,7 @@
 <a href="https://reactjs.org/"><img alt="ReactJs" title="ReactJs" height="35" width="35" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/react.png"></a> <a href="https://angular.io/"><img alt="Angular" title="Angular" height="35" width="35" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/angular.png"></a> <a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" height="35" width="35" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/typescript.png"></a> <a href="https://laravel.com/"><img alt="Laravel" title="Laravel" height="35" width="35" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/laravel.png"></a>
 </p>
 
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicortezm&show_icons=true&locale=en&layout=compact" alt="nicortezm" /></p> 
 </td>
 </tr>
 </tbody>
