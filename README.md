@@ -16,8 +16,7 @@ I’m a Tech enthusiast and Software Engineering student from Chile ᴄʟ
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> 
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" /> 
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white
-" /> 
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white" /> 
 </p>
 
 ### Software and Tools
