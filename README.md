@@ -1,80 +1,70 @@
-<h1 align="left">Hi 👋, I'm Nicolas</h1>
-<br><br>
+# 👋 Hi there, I'm Nicolas!
+I’m a Tech enthusiast and Software Engineering student from Chile ᴄʟ
 
+<em>Hola, soy Nicolas!. Soy estudiante de Ingeniería Informática, vivo en Chile.</em>
 
+### Curently Learning
 
-<p align="left"> 
-🏠 La Cruz, Chile ᴄʟ . <br/>
-👨‍💻 I’m Studying Software Engineering .<br/>
-🚀 How to reach me: ncortezmanzano@gmail.com <br/>
-🔭 I’m currently Learning <a href="https://reactjs.org/"><img alt="ReactJs" title="ReactJs" height="20" width="20" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/react.png"></a> <a href="https://angular.io/"><img alt="Angular" title="Angular" height="20" width="20" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/angular.png"></a> <a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" height="20" width="20" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/typescript.png"></a> <a href="https://laravel.com/"><img alt="Laravel" title="Laravel" height="20" width="20" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/laravel.png"></a><br/>
-</p><br>
-
-
-
-## Socials
-<p align="left">
-<a href="https://instagram.com/sjerkz"><img alt="Instagram" title="Instagram" height="35" width="35" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"></a>
-<a href="https://linkedin.com/in/cortezmanzano"><img alt="LinkedIn" title="LinkedIn" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
-<a href="https://twitter.com"><img alt="Twitter" title="Twitter" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a><a href="https://open.spotify.com/user/bixtsicor"><img alt="Spotify" title="Spotify" height="35" width="35" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
+<p>
+  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" /> 
+<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white" />
+  <img alt="NextJs" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" /> 
 </p>
 
-## Tech Stack
-
-<table align="left">
-<tbody>
-<tr>
-<td>
-
-<b><h3 align="left">Frontend Development:</h3><b/>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/> </a> <a href="https://Wordpress.com/"><img alt="Wordpress" title="Wordpress" height="35" width="35" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/wordpress.png"></a>  
-
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png" alt="webpack" width="40" height="40"/> </a><a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-
-</td>
-<td>
-
-<b><h3 align="left">Software and Tools:</h3>
-<p align="left">
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png" alt="figma" width="40" height="40"/> </a><a href="https://www.adobe.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="40" height="40"/> </a>
-
-
-
+# 🛠️ Technologies and Tools
+### Programming Languages 
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" /> 
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white" /> 
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white
+" /> 
 </p>
+
+### Software and Tools
+
+<p>
+<img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> 
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" /> 
+<img alt="ArchLinux" src="https://img.shields.io/badge/-ArchLinux-1793D1?style=flat&logo=arch-linux&logoColor=white" /> 
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> 
+<img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe%20photoshop&logoColor=white" /> 
+<img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white" /> 
 
 </p>
 
 
-</td>
+### Frontend Developmeent
 
-
-</tr>
-<tr>
-<td>
-
-<b><h3 align="left">Programming Languages:</h3><b/>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
-</td>
-<td>
-
-<b><h3 align="left">Backend Dev & Database:</h3><b/>
-<p align="left"> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<p>
+<img alt="Html5" src="https://img.shields.io/badge/-Html-E34F26?style=flat&logo=html5&logoColor=white" />
+<img alt="Css3" src="https://img.shields.io/badge/-Css-1572B6?style=flat&logo=css3&logoColor=white" />
+<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+<img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?style=flat&logo=wordpress&logoColor=white" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 
 </p>
 
-</td>
-</tr>
-<tr>
-<td>
+### Backend & Database
 
-<b><h3 align="left">Frameworks:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a><a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a></td>
-<td>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nicortezm&show_icons=true&locale=en&layout=compact" alt="nicortezm" />
-</td>
-</tr>
-</tbody>
+<p>
+<img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+<img alt="MySql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img alt="SqlServer" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" />
+<img alt="PostgreSql" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+</p>
 
-</table>        
+### Frameworks
+
+<p>
+<img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white" />
+<img alt="DotNet" src="https://img.shields.io/badge/-.Net-512BD4?style=flat&logo=.NET&logoColor=white" />
+
+</p>
+
+### Contact
+
+<a href="https://teams.microsoft.com/l/chat/0/0?users=<ni.cortezm@duocuc.cl>"><img alt="Microsoft Teams" src="https://img.shields.io/badge/-Teams-6264A7?style=flat&logo=microsoft%20teams&logoColor=white" /></a>
+<a href="mailto:ncortezmanzano@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://discordapp.com/users/335009772900450304/"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/cortezmanzano/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
