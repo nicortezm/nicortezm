@@ -25,7 +25,7 @@ I’m a Tech enthusiast and Software Engineering student from Chile ᴄʟ
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> 
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" /> 
 <img alt="ArchLinux" src="https://img.shields.io/badge/-ArchLinux-1793D1?style=flat&logo=arch-linux&logoColor=white" /> 
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" /> 
+
 <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe%20photoshop&logoColor=white" /> 
 <img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white" /> 
 
@@ -48,9 +48,8 @@ I’m a Tech enthusiast and Software Engineering student from Chile ᴄʟ
 <p>
 <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
 <img alt="MySql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+
 <img alt="SqlServer" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" />
-<img alt="PostgreSql" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
 ### Frameworks
