@@ -60,9 +60,4 @@ I’m a Tech enthusiast and Software Engineering student from Chile ᴄʟ
 
 </p>
 
-### Contact
 
-<a href="https://teams.microsoft.com/l/chat/0/0?users=<ni.cortezm@duocuc.cl>"><img alt="Microsoft Teams" src="https://img.shields.io/badge/-Teams-6264A7?style=flat&logo=microsoft%20teams&logoColor=white" /></a>
-<a href="mailto:cortezm.nicolas@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://discordapp.com/users/335009772900450304/"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/cortezmanzano/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
