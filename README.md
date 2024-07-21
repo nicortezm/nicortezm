@@ -11,15 +11,12 @@
 <b>Hobbys:</b> Tech Stuff, MMO Games, Web Development
 </li>
   <br>
-  <img src="https://i.imgur.com/DR4BP4M.gif" width="401" align="left">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bixtsicor&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=7750bc&bar_color_cover=false" width="401" align="left">
 <br><br><br><br><br><br><br><br><br>
 </div>
 <div>
  <br>
 <p>
-  <div align="right">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bixtsicor&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=7750bc&bar_color_cover=false" align="right" width="355" >
-  </div>
 </div>
 <div>
 <p align="left">
