@@ -1,8 +1,6 @@
 # 👋 Hi there, I'm Nicolas!
 I’m a Tech enthusiast and Software Engineering student from Chile ᴄʟ
 
-<em>Hola, soy Nicolas!. Estudiante de Ingeniería Informática, vivo en Chile.</em>
-
 ### Curently Learning
 
 <p>
