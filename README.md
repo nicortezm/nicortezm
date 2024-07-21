@@ -13,24 +13,23 @@
 
   
 
-<h3> 🌐 Socials </h3>
-
-  
-
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/335009772900450304)
-
-  
-
-<h3>📚 Currently Learning</h3>
+<img src="https://lanyard.kyrie25.me/api/335009772900450304?hideStatus=true&hideActivity=true&waveColor=8B8BFA&waveSpotifyColor=B48EF7&imgStyle=square" style="width:300px;" align="left"  />
+<h3 align="left">📚 Currently Learning</h3>
 
 <img  src="https://skillicons.dev/icons?i=vue,nodejs,nestjs"  height="40"/>
-
 </div>
 
 <br>
+<h3>💻 Tech Stack</h3>
+<a href="https://github.com/kittinan/spotify-github-profile">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bixtsicor&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=7750bc&bar_color_cover=false" alt="spotify-github-profile" align="right" />
+    </a>
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,django,py,tailwind" alt="skills" />
+<img src="https://skillicons.dev/icons?i=linux,docker,nodejs,mysql,vue,laravel" alt="skills" />
+</p>
 
-  
-### hola
+
 </center>
 
 </body>
