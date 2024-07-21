@@ -21,16 +21,17 @@
 <div>
 <p align="left">
   💻 Tech Stack<br><br>
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  /><br>
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  /> 
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  /><br>
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  /> 
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  /><br><br>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  /><br>
   📚 Currently Learning<br><br>
   <img src="https://skillicons.dev/icons?i=vue,nodejs,nestjs" height="40"/>
 </p>
