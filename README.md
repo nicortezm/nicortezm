@@ -18,7 +18,7 @@
  <br>
 <p>
   <div align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bixtsicor&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=7750bc&bar_color_cover=false" align="right" width="305" >
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bixtsicor&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=7750bc&bar_color_cover=false" align="right" width="355" >
   </div>
 </div>
 <div>
