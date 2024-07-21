@@ -9,7 +9,7 @@
 <br>
 <h3>💻 Tech Stack</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,django,py,tailwind,linux,docker,mysql,laravel" alt="skills" align="left" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,django,py,linux,docker,mysql,laravel" alt="skills" align="left" />
 </p>
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bixtsicor&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=7750bc&bar_color_cover=false" alt="spotify-github-profile" align="right" />
 </center>
