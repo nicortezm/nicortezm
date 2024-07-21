@@ -11,9 +11,6 @@
 
 <p>Welcome to my page! </br> I'm Nicolás, Fullstack developer from <img  src="https://cdn-icons-png.flaticon.com/128/197/197586.png"  width="13"/><b> Chile</b>.
 
-  
-
-<img src="https://lanyard.kyrie25.me/api/335009772900450304?hideStatus=true&hideActivity=true&waveColor=8B8BFA&waveSpotifyColor=B48EF7&imgStyle=square" style="width:300px;" align="left"  />
 <h3 align="left">📚 Currently Learning</h3>
 
 <img  src="https://skillicons.dev/icons?i=vue,nodejs,nestjs"  height="40"/>
