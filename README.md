@@ -40,7 +40,7 @@
 <br>
 <h2 align="left">📝 Contact Me</h2>
   <div align="center">
-<img src="https://lanyard.kyrie25.me/api/335009772900450304?hideStatus=true&hideActivity=true&waveColor=8B8BFA&waveSpotifyColor=B48EF7&imgStyle=square" align="right">
+<img src="https://lanyard.kyrie25.me/api/335009772900450304?hideStatus=true&hideActivity=true&waveColor=8B8BFA&waveSpotifyColor=B48EF7&imgStyle=square"  align="right" width="305">
   </div>
 <br>
   
