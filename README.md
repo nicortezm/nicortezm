@@ -25,6 +25,7 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  /><br>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
@@ -33,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  /> 
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  /><br>
   📚 Currently Learning<br><br>
-  <img src="https://skillicons.dev/icons?i=vue,nodejs,nestjs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs" height="40"/>
 </p>
 <br>
 <h2 align="left">📝 Contact Me</h2>
