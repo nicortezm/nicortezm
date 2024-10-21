@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  /> 
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  /><br>
   📚 Currently Learning<br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,aws,kafka,kubernetes,spring" height="40"/>
 </p>
 <br>
 <h2 align="left">📝 Contact Me</h2>
