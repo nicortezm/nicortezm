@@ -46,6 +46,7 @@
 <br>
   
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/335009772900450304)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cortezmanzano/)
 </div>
 <br>
 </div>
