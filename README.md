@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-<img src="https://i.ibb.co/SQG0hqZ/descarga.gif" width="120"/>
+![](assets/descarga.gif)
 
 - I'm Nicolás, Fullstack developer from 🇨🇱 **Chile**.
 - **Hobbys:** Tech Stuff, MMO Games, Web Development
