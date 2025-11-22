@@ -19,69 +19,51 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bixtsicor&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=bixtsicor&redirect=true)
 
-
 </div>
 
 ---
 
 <h3 align="center"> 
-  <img src="assets/tech_stack.svg" width="30px" alt="Tech Stack"/>
+  <img src="assets/tech_stack.svg" width="30px" alt="Tech Stack" style="vertical-align: middle;"/>
   &nbsp; Tech Stack
 </h3>
 
-<div align="center">
-
-```mermaid
-graph TD
-    subgraph BE ["Backend"]
-        A1[Python];
-        A2[Django];
-        A3[PHP];
-        A4[Laravel];
-        A5[Node.js];
-        A6[NestJS];
-    end
-
-    subgraph FE ["Frontend"]
-        B1[React];
-        B2[Vue.js];
-        B3[TypeScript];
-        B4[JavaScript];
-        B5[Tailwind CSS];
-    end
-
-    subgraph DO ["DevOps & Tools"]
-        C1[Linux];
-        C2[Docker];
-        C3[MySQL];
-    end
-
-    classDef backend_style fill:#111,stroke:#FF007F,stroke-width:2px,color:#fff
-    classDef frontend_style fill:#111,stroke:#00FFFF,stroke-width:2px,color:#fff
-    classDef devops_style fill:#111,stroke:#9D00FF,stroke-width:2px,color:#fff
-
-    class A1,A2,A3,A4,A5,A6 backend_style;
-    class B1,B2,B3,B4,B5 frontend_style;
-    class C1,C2,C3 devops_style;
-```
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/Django-1A1B27?style=for-the-badge&logo=django&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/PHP-1A1B27?style=for-the-badge&logo=php&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/Laravel-1A1B27?style=for-the-badge&logo=laravel&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/Node.js-1A1B27?style=for-the-badge&logo=nodedotjs&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/NestJS-1A1B27?style=for-the-badge&logo=nestjs&logoColor=FF007F" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-1A1B27?style=for-the-badge&logo=react&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Vue.js-1A1B27?style=for-the-badge&logo=vuedotjs&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/TypeScript-1A1B27?style=for-the-badge&logo=typescript&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/JavaScript-1A1B27?style=for-the-badge&logo=javascript&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-1A1B27?style=for-the-badge&logo=tailwindcss&logoColor=00FFFF" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-1A1B27?style=for-the-badge&logo=linux&logoColor=9D00FF" />
+  <img src="https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=9D00FF" />
+  <img src="https://img.shields.io/badge/MySQL-1A1B27?style=for-the-badge&logo=mysql&logoColor=9D00FF" />
+</p>
 
 <h3 align="center">
-  <img src="assets/learning.svg" width="30px" alt="Currently Learning"/>
+  <img src="assets/learning.svg" width="30px" alt="Currently Learning" style="vertical-align: middle;"/>
   &nbsp; Currently Learning
 </h3>
 
-<div align="center">
-  <a href="https://aws.amazon.com" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" /></a>
-  <a href="https://kubernetes.io" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
-  <a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /></a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-1A1B27?style=for-the-badge&logo=amazonwebservices&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Kubernetes-1A1B27?style=for-the-badge&logo=kubernetes&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Kafka-1A1B27?style=for-the-badge&logo=apachekafka&logoColor=F7DF1E" />
+</p>
 
 ---
 
 <h3 align="center">
-  <img src="assets/connect.svg" width="30px" alt="Connect with Me"/>
+  <img src="assets/connect.svg" width="30px" alt="Connect with Me" style="vertical-align: middle;"/>
   &nbsp; Connect with Me
 </h3>
 
