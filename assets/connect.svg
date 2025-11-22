@@ -1,0 +1,26 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .signal {
+      animation: radiate 2s infinite ease-out;
+      transform-origin: 15px 15px;
+    }
+    @keyframes radiate {
+      0% {
+        transform: scale(0);
+        opacity: 1;
+      }
+      100% {
+        transform: scale(1.5);
+        opacity: 0;
+      }
+    }
+    .signal:nth-child(2) {
+      animation-delay: 1s;
+    }
+  </style>
+  <path d="M15 20C17.7614 20 20 17.7614 20 15C20 12.2386 17.7614 10 15 10C12.2386 10 10 12.2386 10 15C10 17.7614 12.2386 20 15 20Z" stroke="#00FFFF" stroke-width="2"/>
+  <path d="M15 15L25 5" stroke="#00FFFF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M5 25L12 18" stroke="#00FFFF" stroke-width="2" stroke-linecap="round"/>
+  <path class="signal" d="M15, 15 m -5, 0 a 5,5 0 1,0 10,0 a 5,5 0 1,0 -10,0" stroke="#FF007F" stroke-width="1.5" fill="none"/>
+  <path class="signal" d="M15, 15 m -5, 0 a 5,5 0 1,0 10,0 a 5,5 0 1,0 -10,0" stroke="#FF007F" stroke-width="1.5" fill="none"/>
+</svg>
