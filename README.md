@@ -33,7 +33,7 @@
 
 ```mermaid
 graph TD
-    subgraph Backend
+    subgraph BE ["Backend"]
         A1[Python];
         A2[Django];
         A3[PHP];
@@ -42,7 +42,7 @@ graph TD
         A6[NestJS];
     end
 
-    subgraph Frontend
+    subgraph FE ["Frontend"]
         B1[React];
         B2[Vue.js];
         B3[TypeScript];
@@ -50,18 +50,19 @@ graph TD
         B5[Tailwind CSS];
     end
 
-    subgraph "DevOps & Tools"
+    subgraph DO ["DevOps & Tools"]
         C1[Linux];
         C2[Docker];
         C3[MySQL];
     end
 
-    style Backend fill:#111,stroke:#FF007F,stroke-width:2px
-    style Frontend fill:#111,stroke:#00FFFF,stroke-width:2px
-    style "DevOps & Tools" fill:#111,stroke:#9D00FF,stroke-width:2px
+    classDef backend_style fill:#111,stroke:#FF007F,stroke-width:2px,color:#fff
+    classDef frontend_style fill:#111,stroke:#00FFFF,stroke-width:2px,color:#fff
+    classDef devops_style fill:#111,stroke:#9D00FF,stroke-width:2px,color:#fff
 
-    classDef tech fill:#222,stroke:#fff,stroke-width:1px,color:#fff;
-    class A1,A2,A3,A4,A5,A6,B1,B2,B3,B4,B5,C1,C2,C3 tech;
+    class A1,A2,A3,A4,A5,A6 backend_style;
+    class B1,B2,B3,B4,B5 frontend_style;
+    class C1,C2,C3 devops_style;
 ```
 
 </div>
