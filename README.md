@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![Discord Presence](https://<TU_DOMINIO_VERCEL>/api/presence?id=335009772900450304)](https://discord.com/users/335009772900450304)
+[![Discord Presence](https://widget-discord.vercel.app/api/presence?id=335009772900450304)](https://discord.com/users/335009772900450304)
 
 </div>
 
