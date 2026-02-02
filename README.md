@@ -19,7 +19,7 @@
 
 [![Discord Presence](https://widget-discord.vercel.app/api/presence?id=335009772900450304)](https://discord.com/users/335009772900450304)
 
-![My Spotify Activity](https://spotify-serverless.cortezm-nicolas.workers.dev/svg/grid)
+![My Spotify Activity](https://spotify-serverless.cortezm-nicolas.workers.dev/svg/grid?v=2)
 
 </div>
 
