@@ -19,6 +19,8 @@
 
 [![Discord Presence](https://widget-discord.vercel.app/api/presence?id=335009772900450304)](https://discord.com/users/335009772900450304)
 
+[![Spotify Activity](https://spotify-serverless.cortezm-nicolas.workers.dev/svg/grid)](https://open.spotify.com/playlist/2HSncqz6cEVZ5kHZQ5NZ6S?si=44ea18c652024e71)
+
 </div>
 
 ---
