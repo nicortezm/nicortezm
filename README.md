@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=435&lines=Backend+Developer;Backend+Specialist;Synthwave+Enthusiast;Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=435&lines=Backend+Developer;Backend+Specialist;AI+Agent+Builder;Synthwave+Enthusiast;Tech+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ---
 
-<h3 align="center"> 
+<h3 align="center">
   <img src="assets/tech_stack.svg" width="30px" alt="Tech Stack" style="vertical-align: middle;"/>
   &nbsp; Tech Stack
 </h3>
@@ -37,6 +37,8 @@
   <img src="https://img.shields.io/badge/Laravel-1A1B27?style=for-the-badge&logo=laravel&logoColor=FF007F" />
   <img src="https://img.shields.io/badge/Node.js-1A1B27?style=for-the-badge&logo=nodedotjs&logoColor=FF007F" />
   <img src="https://img.shields.io/badge/NestJS-1A1B27?style=for-the-badge&logo=nestjs&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/Go-1A1B27?style=for-the-badge&logo=go&logoColor=FF007F" />
+  <img src="https://img.shields.io/badge/Rust-1A1B27?style=for-the-badge&logo=rust&logoColor=FF007F" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-1A1B27?style=for-the-badge&logo=react&logoColor=00FFFF" />
@@ -46,20 +48,33 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-1A1B27?style=for-the-badge&logo=tailwindcss&logoColor=00FFFF" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/AWS-1A1B27?style=for-the-badge&logo=amazonwebservices&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Azure-1A1B27?style=for-the-badge&logo=microsoftazure&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Google_Cloud-1A1B27?style=for-the-badge&logo=googlecloud&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Kubernetes-1A1B27?style=for-the-badge&logo=kubernetes&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Terraform-1A1B27?style=for-the-badge&logo=terraform&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Nginx-1A1B27?style=for-the-badge&logo=nginx&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Kafka-1A1B27?style=for-the-badge&logo=apachekafka&logoColor=F7DF1E" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-1A1B27?style=for-the-badge&logo=linux&logoColor=9D00FF" />
-  <img src="https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=9D00FF" />
   <img src="https://img.shields.io/badge/MySQL-1A1B27?style=for-the-badge&logo=mysql&logoColor=9D00FF" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1A1B27?style=for-the-badge&logo=postgresql&logoColor=9D00FF" />
+  <img src="https://img.shields.io/badge/Git-1A1B27?style=for-the-badge&logo=git&logoColor=9D00FF" />
 </p>
 
 <h3 align="center">
-  <img src="assets/learning.svg" width="30px" alt="Currently Learning" style="vertical-align: middle;"/>
-  &nbsp; Currently Learning
+  <img src="assets/ai.svg" width="30px" alt="AI & Agents" style="vertical-align: middle;"/>
+  &nbsp; AI & Agents
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-1A1B27?style=for-the-badge&logo=amazonwebservices&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Kubernetes-1A1B27?style=for-the-badge&logo=kubernetes&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Kafka-1A1B27?style=for-the-badge&logo=apachekafka&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/OpenClaw-1A1B27?style=for-the-badge&logoColor=00FF9F" />
+  <img src="https://img.shields.io/badge/Hermes_Agent-1A1B27?style=for-the-badge&logoColor=00FF9F" />
+  <img src="https://img.shields.io/badge/Ollama-1A1B27?style=for-the-badge&logo=ollama&logoColor=00FF9F" />
+  <img src="https://img.shields.io/badge/OpenCode-1A1B27?style=for-the-badge&logoColor=00FF9F" />
+  <img src="https://img.shields.io/badge/MCP-1A1B27?style=for-the-badge&logoColor=00FF9F" />
 </p>
 
 ---
